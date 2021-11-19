@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,UAAU,CAAC;EACP,OAAO,EAAE,KAAK;EACd,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,KAAK;EACb,UAAU,EAAE,OAAO;EACnB,MAAM,EAAE,MAAM;CAEjB",
+    "sources": [
+        "errorMessage.scss"
+    ],
+    "names": [],
+    "file": "errorMessage.css"
+}
